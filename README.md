@@ -1,10 +1,10 @@
 ### Agenda
 
     **The Gladiator's Mastermind** 
-    Session: 05
+    Session: 06
     Time keeper: Juan
-    Host for our next meeting: Juan
-    Next meeting date: March 29st 8h30PM EST
+    Host for our next meeting: Luz
+    Next meeting date: April 01 8h30PM EST
     This meeting will last: 60 min
     How much time per person: 5 min
     New phone bridge: 401-283-6344, PIN:12444 from uberconference.com/andymedia
@@ -23,13 +23,13 @@
 
 ### Pairing match for today (changing everyweek):
 
-    E Juan Camou
-    F Luz Gonzalez
-    A Pascal Andy
-    G Sarah Martin
-    B Jill Murwin
-    C Laura Raynak
-    D Denis Côté
+E Juan Camou
+D Denis Côté
+B Jill Murwin
+G Sarah Martin
+C Laura Raynak
+F Luz Gonzalez
+A Pascal Andy
     
 To generate a new pairing match, use randomizelist.com and update the result on this page. How it works?: The first person, the interviewer, ask questions to the second person. Then, the second person become the interviewer and ask questions to the 3td person. You get the picture :)
 
@@ -37,13 +37,13 @@ To generate a new pairing match, use randomizelist.com and update the result on 
 
 A quick update in 30 seconds:
 
-    What are you working on?
-    What did you learn since our last meeting?
-    What are your proud of since our last meeting?
+    What are you proud of yourself for? 
 
 In 4 minutes:
 
-    What Do You Need Help With?
+    Let's get to know each other better at a deeper level. Share with the team for ~4 minutes what your passion and driving force are. What is that one thing or those things that really help you feel connected and full of meaning and contribution. What you are working on leaving as your legacy here on earth?  
+    
+    How can we help you achieve and hold yourself accountable to this vision of your life?
 
 ### Values
 
